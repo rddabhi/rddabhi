@@ -1,4 +1,4 @@
-# Hi, I'm Riddhi Dabhi 👋
+# Hi, I'm Rahul Dabhi 👋
 
 ## 🚀 About Me
 Flutter Developer & Django Backend Developer from India.
