@@ -36,3 +36,16 @@ Flutter Developer & Django Backend Developer from India.
 
 - LinkedIn: linkedin.com/in/rahul-dabhi-bb8707321
 - Email: rddabhi8604@gmail.com
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rddabhi&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rddabhi&layout=compact&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rddabhi&theme=tokyonight)
+
+---
+⭐ From [rddabhi](https://github.com/rddabhi)
