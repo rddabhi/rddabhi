@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Riddhi Dabhi 👋
 
-<!--
-**rddabhi/rddabhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Flutter Developer & Django Backend Developer from India.
 
-Here are some ideas to get you started:
+- 📱 Building Mobile Apps with Flutter
+- 🌐 Developing REST APIs using Django
+- 🗄️ PostgreSQL Database
+- 🔥 Learning Advanced Backend Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### Frontend
+- Flutter
+- Dart
+
+### Backend
+- Django
+- Django REST Framework
+
+### Database
+- PostgreSQL
+- SQLite
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+## 📌 Current Focus
+- Flutter App Development
+- Django Backend APIs
+- Freelancing Projects
+
+## 📫 Connect With Me
+
+- LinkedIn: linkedin.com/in/rahul-dabhi-bb8707321
+- Email: rddabhi8604@gmail.com
